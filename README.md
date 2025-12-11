@@ -1,3 +1,11 @@
+![banner](banner3.png)
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey)
+![IBM Skills Network](https://img.shields.io/badge/Built%20For-IBM%20Skills%20Network-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 # Emotion Detection Project (IBM Python & Watson NLP)
 This project is a Flask-based Emotion Detection web application created as part of the IBM “Building Generative AI-Powered Applications” course. It analyzes text and returns both the dominant emotion and detailed emotion scores using a local Watson NLP model.
 
